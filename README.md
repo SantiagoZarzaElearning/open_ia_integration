@@ -1,5 +1,7 @@
 # open_ia_integration
 
+Project URL: https://github.com/SantiagoZarzaElearning/open_ia_integration
+
 Call OpenAI models directly from Python instead of using the browser chat. Experiment with `system` message, `temperature`, and `max_tokens`.
 
 ## Setup
